@@ -29,4 +29,3 @@ phone number: 010-2114-4681
 
 ### 🐾Optional
 
-1. file:///C:/Users/SSAFY/Downloads/Report%20of%20ORF%207b%20PHE.pdf
