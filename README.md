@@ -25,7 +25,5 @@ phone number: 010-2114-4681
 
 ### 🐾Projects
 
-1. Studying the SARS-CoV-2 immune evasion mechanism targeting the MHC class I pathway
-
 ### 🐾Optional
 
