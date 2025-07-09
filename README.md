@@ -9,11 +9,7 @@ Interst: 찾아가는 중 입니다.
 ### 🐾Career Summary
 
 ```
-대구화남초등학교 졸업
-대구화원중학교 졸업
-대구도원고등학교 졸업
-경북대학교 생명공학과 25년 2월 졸업예정
-SSAFY ~ing
+2025.02 SSAFY ~ing
 ```
 
 ### 🐾Contact information
